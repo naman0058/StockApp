@@ -1,6 +1,5 @@
 var express = require('express');
 var router = express.Router();
-var upload = require('../../routes/multer');
 const readXlsxFile = require('read-excel-file/node')
 const csvToJson = require('csvtojson');
 
