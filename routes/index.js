@@ -7,7 +7,7 @@ const csvToJson = require('csvtojson');
 const { rtConnect, rtDisconnect, rtSubscribe, rtUnsubscribe, rtFeed, historical, formatTime } = require('truedata-nodejs')
 
 
-// rtDisconnect()
+rtDisconnect()
 
 
 
