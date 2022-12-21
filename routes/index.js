@@ -8,8 +8,6 @@ const { rtConnect, rtDisconnect, rtSubscribe, rtUnsubscribe, rtFeed, historical,
 
 
 
-
-
 const user = 'wssand050'
 const pwd = 'john050'
 const port = 8084
