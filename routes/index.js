@@ -17,7 +17,7 @@ const symbols = ['NIFTY-I', 'BANKNIFTY-I', 'CRUDEOIL-I', 'INFY']; // symbols in 
 rtDisconnect()
 
 
-rtConnect(user, pwd, symbols, port, bidask = 1, heartbeat = 0, replay = 0);
+// rtConnect(user, pwd, symbols, port, bidask = 1, heartbeat = 0, replay = 0);
 
 
 // rtFeed.on('touchline', touchlineHandler);
