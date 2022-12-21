@@ -53,4 +53,8 @@ router.post('/xlsx',upload.single('file'),(req,res)=>{
   })
 })
 
+router.get('/',(req,res)=>{
+  res.json({msg:'a'})
+})
+
 module.exports = router;
