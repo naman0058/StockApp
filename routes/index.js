@@ -10,7 +10,7 @@ const { rtConnect, rtDisconnect, rtSubscribe, rtUnsubscribe, rtFeed, historical,
 
 
 
-const user = 'wssand0501'
+const user = 'wssand050'
 const pwd = 'john050'
 const port = 8084
 const symbols = ['NIFTY-I', 'BANKNIFTY-I', 'CRUDEOIL-I', 'INFY']; // symbols in array format
