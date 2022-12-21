@@ -19,6 +19,7 @@
     "mysql": "^2.18.1",
     "nodemon": "^2.0.20",
     "path": "^0.12.7",
-    "read-excel-file": "^5.5.3"
+    "read-excel-file": "^5.5.3",
+    "truedata-nodejs": "^1.0.16"
   }
 }
